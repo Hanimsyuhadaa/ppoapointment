@@ -38,6 +38,7 @@
                             'options' =>[
                                 'Lecturer' => 'Lecturer',
                                  'Staff' => 'Staff',
+                                 'Student'=> 'Student', 
 
                             ],
                             'empty' => 'Select Post',
